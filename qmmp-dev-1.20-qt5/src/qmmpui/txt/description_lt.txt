@@ -1,0 +1,1 @@
+Ši programa yra audio grotuvas, sukurtas Qt pagrindu.

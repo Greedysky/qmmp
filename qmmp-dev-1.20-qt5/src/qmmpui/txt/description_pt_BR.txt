@@ -1,0 +1,1 @@
+Esse programa é um reprodutor de áudio, desenvolvido com infraestrutura Qt.

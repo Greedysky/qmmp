@@ -1,0 +1,17 @@
+Gracias a:
+
+    Adria Arrufat <swiftscythe@gmail.com> - reporte de errores
+    Adrian Knoth <adi@drcomp.erfurt.thur.de> - arreglos en el módulo jack, reporte de errores
+    Csaba Hruska <csaba.hruska@gmail.com> - arreglos en el módulo ffmpeg
+    Dmitry Kostin <kostindima@gmail.com> - soporte iso.wv
+    Gennadi Motsyo <drool@altlinux.ru> - reporte de errores
+    Vadim Kalinnikov <moose@ylsoftware.com> - alojamiento del proyecto
+    Erik Ölsar <erlk.ozlr@gmail.com> - temas de cursores, mejoras en el interfaz
+    Funda Wang <fundawang@gmail.com> - arreglos en los archivos cmake
+    Michail Zheludkov <zheludkovm@mail.ru> - arreglos en el módulo ffmpeg
+    Panagiotis Papadopoulos <pano_90@gmx.net> - arreglos en el interfaz, reporte de errores
+    Pino Toscano <toscano.pino@tiscali.it> - parches de portabilidad
+    Karel Volný <kvolny@redhat.com> - varios arreglos
+    Sebastian Pipping <webmaster@hartwork.org> - parches para bs2b
+    Stefan Koelling <stefankoelling.ext@googlemail.com> - algunos arreglos en la compilación
+    Yaakov Selkowitz <yselkowitz@gmail.com> - parches para cygwin

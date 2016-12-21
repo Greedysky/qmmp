@@ -1,0 +1,1 @@
+Bu program Qt kitaplığı kullaılarak yazılmış bir çoklu ortam oynatıcısıdır.

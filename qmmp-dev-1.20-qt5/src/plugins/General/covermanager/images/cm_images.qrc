@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>cm_no_cover.png</file>
+    </qresource>
+</RCC>

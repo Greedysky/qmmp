@@ -1,0 +1,1 @@
+Programma di riproduzione audio scritto con l'ausilio di librerie QT.

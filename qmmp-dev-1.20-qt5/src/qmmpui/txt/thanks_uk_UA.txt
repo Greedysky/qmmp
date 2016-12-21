@@ -1,0 +1,20 @@
+Подяки:
+
+    Вадиму Каліннікову <moose@ylsoftware.com> - хостинг проекту
+    Adria Arrufat <swiftscythe@gmail.com> - повідомлення про помилки
+    Adrian Knoth <adi@drcomp.erfurt.thur.de> - виправлення в модулі jack, повідомлення про помилки
+    Anton Petrusevich <casus@casus.us> - покращення випадкового відтворення
+    Avihay Baratz <avihayb@gmail.com> - опції авто-зупинки, виправлення помилок
+    Csaba Hruska <csaba.hruska@gmail.com> - виправлення в модулі ffmpeg
+    Dmitry Kostin <kostindima@gmail.com> - підтримка iso.wv
+    Evgeny Gleyzerman <evgley@gmail.com> - покращення підтримки cue
+    Геннадій Моцьо <drool@altlinux.ru> - повідомлення про помилки
+    Erik Ölsar <erlk.ozlr@gmail.com> - растрові курсори, покращення інтерфейсу користувача
+    Funda Wang <fundawang@gmail.com> - виправлення файлів cmake
+    Михайло Желудков <zheludkovm@mail.ru> - виправлення в модулі ffmpeg
+    Panagiotis Papadopoulos <pano_90@gmx.net> - покращення інтерфейсу користувача, повідомлення про помилки
+    Pino Toscano <toscano.pino@tiscali.it> - покращення кроссплатформності
+    Karel Volný <kvolny@redhat.com> - різноманітні виправлення
+    Sebastian Pipping <webmaster@hartwork.org> - патчі bs2b
+    Stefan Koelling <stefankoelling.ext@googlemail.com> - виправлення збірки
+    Yaakov Selkowitz <yselkowitz@gmail.com> - підтримка cygwin

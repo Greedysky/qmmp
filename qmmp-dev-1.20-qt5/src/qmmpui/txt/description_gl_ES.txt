@@ -1,0 +1,1 @@
+Este programa é un reprodutor de audio, escrito coa axuda da librería Qt.
