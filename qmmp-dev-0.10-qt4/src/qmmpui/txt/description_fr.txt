@@ -1,1 +1,0 @@
-Ce programme est un lecteur audio, écrit grâce à la bibliothèque Qt.

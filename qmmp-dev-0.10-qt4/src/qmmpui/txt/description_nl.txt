@@ -1,1 +1,0 @@
-Dit programma is een audio-speler, geschreven met behulp van de Qt bibliotheek.
