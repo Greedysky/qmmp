@@ -1,1 +1,0 @@
-Tento program je zvukový přehrávač napsaný s pomocí knihovny Qt.
